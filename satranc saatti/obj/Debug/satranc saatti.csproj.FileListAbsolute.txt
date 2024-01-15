@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\satranc saatti\satranc saatti\bin\Debug\satranc saatti.exe.config
+C:\Users\User\source\repos\satranc saatti\satranc saatti\bin\Debug\satranc saatti.exe
+C:\Users\User\source\repos\satranc saatti\satranc saatti\bin\Debug\satranc saatti.pdb
+C:\Users\User\source\repos\satranc saatti\satranc saatti\obj\Debug\satranc saatti.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\satranc saatti\satranc saatti\obj\Debug\satranc saatti.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\satranc saatti\satranc saatti\obj\Debug\satranc_saatti.Form1.resources
+C:\Users\User\source\repos\satranc saatti\satranc saatti\obj\Debug\satranc_saatti.Properties.Resources.resources
+C:\Users\User\source\repos\satranc saatti\satranc saatti\obj\Debug\satranc saatti.csproj.GenerateResource.cache
+C:\Users\User\source\repos\satranc saatti\satranc saatti\obj\Debug\satranc saatti.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\satranc saatti\satranc saatti\obj\Debug\satranc saatti.exe
+C:\Users\User\source\repos\satranc saatti\satranc saatti\obj\Debug\satranc saatti.pdb
